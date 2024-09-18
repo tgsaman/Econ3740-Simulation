@@ -1,2 +1,12 @@
-# EconFinalSimulation
-This time-series simulation of a game theory paper I wrote in college, utilizing synthetic data and random number generation to display potential results of the game I described
+# Econ3740-Simulation
+This time-series simulation of a game theory paper I wrote in college, "Supply and Desire: Testing for demand in a post-subsistence economy" that utilizes synthetic data and pseudo-random number generation to display potential results of the game I described.
+
+TO RUN:
+Install the necessary packages. {This experiment is designed to run as a .py file that generates a slightly different result each time it is run. There are [?] pseudo-random parameters that are selected and displayed on run. Every time you run the file, you'll get a report written to your computer that displays a graphical and statistical analysis of the results of the experiment, as well as what parameters were used.}
+
+BACKGROUND:
+Econ 3740, "Issues in Financial Markets" with Professor Duncan James was an introduction to Experimental Economics, a graduate field of research that attempts to apply the scientfic method to the "soft science" of economics. Economics, much like psychology, is a study of individuals' behavior and is therefore largely subjective. However, widespread innovation in fields like statistics and computer science have made experiments that test economic hypothesis possible. 
+
+In all instances of economic experiments, computer terminals are used. The field has its origins in the late 1970s as computers began proliferating across college campuses. Professor Duncan allowed his students to engage with the scholarship, experimental results, and theorize our own experimental designs in a senior-level Econ course at Fordham University. This repository is a simulated model of results to the game I came up with. Being a simulation created by one person (the inventor of the game) defeats the purpose of an "experiment." Due to the nature of my role as both inventor and tester, my assumptions to the hypothesis being tested are going to bias the result; in fact, I'm going to need supply a value to the variable coefficient I'm testing. In that sense, this simulation serves as a sort of benchmark to my experimental design, which I hope may some day be tested in a real experimental enviornment. 
+
+With all that being said, this project was an easy way to display my quantitative and programming skills; when writing the paper, I wrote econometric equations that could account for the complex variables being tested. Being able to convert those abstract equations back into code was a way of showing off my high-level mathematics and computer science systems thinking, which is relevant for my career in data management and business intelligence. A copy of the paper is linked to my portfolio website, along with this repository.
