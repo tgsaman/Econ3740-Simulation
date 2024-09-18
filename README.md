@@ -1,5 +1,5 @@
 # Econ3740-Simulation
-This time-series simulation of a game theory paper I wrote in college, "Supply and Desire: Testing for demand in a post-subsistence economy" that utilizes synthetic data and pseudo-random number generation to display potential results of the game I described.
+This is a time-series simulation of a game theory paper I wrote in college, "Supply and Desire: Testing for demand in a post-subsistence economy" that utilizes synthetic data and pseudo-random number generation to display potential results of the game I described.
 
 TO RUN:
 Install the necessary packages. {This experiment is designed to run as a .py file that generates a slightly different result each time it is run. There are [?] pseudo-random parameters that are selected and displayed on run. Every time you run the file, you'll get a report written to your computer that displays a graphical and statistical analysis of the results of the experiment, as well as what parameters were used.}
